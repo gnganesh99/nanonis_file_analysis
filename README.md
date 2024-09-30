@@ -1,6 +1,7 @@
 # nanonis_file_analysis
 Python functions to analyze nanonis files - .sxm and .3ds
-This uses the stmpy module which needs to be downloaded: pip install hoffmanstmpy
+This uses the stmpy module which needs to be downloaded: 
+    pip install hoffmanstmpy
 source: https://github.com/hoffmanlabcoding/stmpy/tree/main
 
 "Image_analysis" contains the class for analysis of the nanonis image data - .sxm
