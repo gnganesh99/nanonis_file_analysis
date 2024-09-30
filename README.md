@@ -10,7 +10,7 @@ source: https://github.com/hoffmanlabcoding/stmpy/tree/main
 "Image_analysis" contains the class for analysis of the nanonis image data - .sxm
 The notebook "sxm_image.ipynb" shows sample code for working with the .sxm file.
 
-"CITS_analysis" contains the class for analysis of the CITS data - .3ds
+"cits_analysis" contains the class for analysis of the CITS data - .3ds
 The notebook "CITS_data_analysis.ipynb" shows sample code for working with the .3ds files
 
 Sample data are also attached
