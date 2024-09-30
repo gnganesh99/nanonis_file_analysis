@@ -1,7 +1,7 @@
 # nanonis_file_analysis
 Python functions to analyze nanonis files - .sxm and .3ds.
 
-This uses the stmpy module which needs to be downloaded: 
+This uses the stmpy module which needs to be installed: 
 
     pip install hoffmanstmpy
     
